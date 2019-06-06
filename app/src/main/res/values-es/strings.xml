@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="labels_login">Inicio de Sesión</string>
+    <string name="hints_username">Usuario</string>
+    <string name="hints_password">Contraseña</string>
+    <string name="actions_login">Iniciar sesión</string>
+    <string name="actions_register">Registrarme</string>
+    <string name="actions_password_recovery">Recuperar contraseña</string>
+    <string name="server_path_moved">La ruta especificada fue movida permanentemente</string>
+    <string name="error_bad_request">Solicitud errónea</string>
+    <string name="response_unauthorized">El servidor rechazó la solicitud, quizá carezcas de permisos o no tengas
+        permisos para acceder a él
+    </string>
+    <string name="error_forbidden">La acción solicitada está prohibida</string>
+    <string name="error_not_found">La ruta especificada no fue encontrada</string>
+    <string name="error_timeout">La solicitud tardó demasiado en responder</string>
+    <string name="response_internal_server_error">Ocurrió un error en el servidor, intente nuevamente</string>
+    <string name="error_bad_gateway">No se pudo contactar al servidor, comprueba tu conexión a internet e intenta
+        nuevamente
+    </string>
+    <string name="unexpected_error">Ocurrió un error inesperado</string>
+    <string name="error_server_unresponsive">El servidor no está disponible o no está respondiendo solicitudes por
+        ahora, intenta nuevamente más tarde
+    </string>
+    <string name="actions_search">Buscar</string>
+    <string name="settings_show_doable_only">Mostrar solo recetas preparables</string>
+    <string name="settings_show_doable_only_help">Mostrar solo recetas que puedas preparar de acuerdo a tus
+        ingredientes
+    </string>
+    <string name="settings_server_address">Dirección de servidor actual (desarrolladores)</string>
+    <string name="activity_settings">Ajustes</string>
+    <string name="actions_save">Guardar</string>
+    <string name="hints_new_address">Nueva dirección</string>
+    <string name="actions_settings">Ajustes</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_user_ingredients">Mis Ingredientes</string>
+    <string name="ic_all_ingredients">Lista de ingredientes</string>
+    <string name="menu_shopping_list">Lista de compras</string>
+    <string name="menu_all_ingredients">Lista de ingredientes</string>
+    <string name="menu_recipes">Recetas</string>
+    <string name="menu_logout">Cerrar sesión</string>
+    <string name="hints_email">Correo</string>
+    <string name="labels_register">Registro</string>
+    <string name="hints_email_confirm">Confirmar correo</string>
+    <string name="hints_password_confirm">Confirmar contraseña</string>
+    <string name="hints_user_confirm">Confirmar usuario</string>
+    <string name="tabs_comments">Comentarios</string>
+    <string name="tabs_ingredients">Ingredientes</string>
+    <string name="tabs_instructions">Instrucciones</string>
+    <string name="actions_add">Agregar</string>
+    <string name="hello_blank_fragment">Hola Blank Fragment</string>
+    <string name="labels_amount">Cantidad:</string>
+    <string name="actions_add_to_cart">Agregar a lista</string>
+    <string name="actions_ingredient_added">{ingredient} agregado a la lista de compra</string>
+    <string name="error_not_implemented">Acción no implementada aún</string>
+    <string name="actions_ingredient_removed">Ingrediente marcado como comprado: {ingredient}</string>
+    <string name="string_user_recipes">Recetas compartidas por el usuario</string>
+</resources>

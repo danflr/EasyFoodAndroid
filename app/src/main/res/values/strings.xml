@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name" translatable="false">EasyFood</string>
+    <string name="labels_login">Log In</string>
+    <string name="hints_username">Username</string>
+    <string name="hints_password">Password</string>
+    <string name="actions_login">Log in</string>
+    <string name="actions_register">Create account</string>
+    <string name="actions_password_recovery">Recover Password</string>
+    <string name="server_path_moved">The path you specified was moved permanently</string>
+    <string name="error_bad_request">Bad request</string>
+    <string name="response_unauthorized">The server rejected the request, maybe your missing permissions or you\'re not
+        allowed to access it
+    </string>
+    <string name="error_forbidden">Requested action is forbidden</string>
+    <string name="error_not_found">The specified path was not found on the server</string>
+    <string name="error_timeout">Request took too long to respond</string>
+    <string name="response_internal_server_error">An internal error occurred in the server, try again</string>
+    <string name="error_bad_gateway">Couldn\'t reach server path, check your internet connection and try again</string>
+    <string name="unexpected_error">An unexpected error occurred</string>
+    <string name="error_server_unresponsive">Server is not available or is not responding to request right now, try
+        again later
+    </string>
+    <string name="actions_search">Search</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+    <string name="settings_show_doable_only">Show doable recipes only</string>
+    <string name="settings_show_doable_only_help">Show only recipes you can make according to your ingredients</string>
+    <string name="settings_server_address">Current server address (developers)</string>
+    <string name="activity_settings">Settings</string>
+    <string name="hints_new_address">New address</string>
+    <string name="actions_save">Save</string>
+    <string name="actions_settings">Settings</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_user_ingredients">My Ingredients</string>
+    <string name="ic_all_ingredients">Ingredients list</string>
+    <string name="menu_shopping_list">Shopping list</string>
+    <string name="menu_all_ingredients">Ingredients list</string>
+    <string name="menu_recipes">Recipes</string>
+    <string name="menu_logout">Log out</string>
+    <string name="hints_email">Email</string>
+    <string name="labels_register">Register</string>
+    <string name="hints_email_confirm">Confirm email</string>
+    <string name="hints_password_confirm">Password confirm</string>
+    <string name="hints_user_confirm">User confirm</string>
+    <string name="tabs_ingredients">Ingredients</string>
+    <string name="tabs_instructions">Instructions</string>
+    <string name="tabs_comments">Comments</string>
+    <string name="actions_add">Add</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="labels_amount">Amount:</string>
+    <string name="actions_add_to_cart">Add to list</string>
+    <string name="actions_ingredient_added">Added {ingredient} to shopping list</string>
+    <string name="error_not_implemented">Action not implemented yet</string>
+    <string name="actions_ingredient_removed">Ingredient marked as bought: {ingredient}</string>
+    <string name="string_user_recipes">User shared recipes</string>
+</resources>
